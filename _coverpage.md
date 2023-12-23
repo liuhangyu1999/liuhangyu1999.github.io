@@ -5,7 +5,7 @@
 
 <!-- background image -->
 
-![](MAINPICS\A3.png)
+![]()
 
 <!-- background color -->
 
